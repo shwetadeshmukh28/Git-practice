@@ -1,1 +1,1 @@
-console.log("Learning git fetc & get pull command");
+console.log("Learning git fetch & git pull command");
